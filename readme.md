@@ -39,6 +39,7 @@ cl /LD fac_module_wrap.c /o _fac_module.pyd -ID:\Python34\include D:\Python34\li
 注意输出文件名前面要加一个下划线`_fac_module.pyd`.
 现在可以立即在Python下使用这个module了.
 
+---
 
 ### SWIG_C++
 对于C++，SWIG也可以应对。
